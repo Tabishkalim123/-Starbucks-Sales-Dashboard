@@ -1,0 +1,1001 @@
+ProductID,ProductName,Category,SubCategory,UnitPrice,COGS
+PROD0001,Re-Intermediate Cutting-Edge Eyeballs,Furniture,Tables,537.86,273.67
+PROD0002,Leverage Value-Added E-Tailers,Technology,Copiers,469.12,286.59
+PROD0003,Incentivize Best-Of-Breed Content,Technology,Machines,155.62,83.94
+PROD0004,Target Bleeding-Edge Schemas,Technology,Accessories,971.73,535.55
+PROD0005,Exploit Mission-Critical Functionalities,Furniture,Chairs,31.18,20.53
+PROD0006,Integrate Distributed Info-Mediaries,Furniture,Furnishings,371.68,258.23
+PROD0007,Synergize Wireless Architectures,Technology,Phones,194.67,102.45
+PROD0008,Deploy Customized Synergies,Technology,Machines,707.87,372.35
+PROD0009,Iterate User-Centric Architectures,Furniture,Chairs,511.75,358.02
+PROD0010,Empower Interactive Systems,Office Supplies,Binders,265.13,210.2
+PROD0011,Iterate Holistic E-Commerce,Office Supplies,Art,63.51,42.61
+PROD0012,Expedite Front-End E-Services,Technology,Copiers,286.97,170.51
+PROD0013,Mesh Bleeding-Edge Solutions,Furniture,Bookcases,883.85,725.62
+PROD0014,Embrace Virtual Communities,Technology,Copiers,358.42,246.61
+PROD0015,Incentivize Seamless Vortals,Furniture,Furnishings,340.71,253.35
+PROD0016,Iterate Scalable Content,Furniture,Bookcases,519.49,321.48
+PROD0017,Extend Web-Enabled Bandwidth,Technology,Machines,358.59,196.06
+PROD0018,Utilize Web-Enabled Markets,Technology,Copiers,163.29,96.67
+PROD0019,Unleash Dot-Com Deliverables,Technology,Copiers,390.53,349.54
+PROD0020,Engage Mission-Critical Action-Items,Furniture,Furnishings,527.47,389.69
+PROD0021,Strategize Mission-Critical Users,Furniture,Bookcases,348.06,189.21
+PROD0022,Benchmark Granular Schemas,Technology,Phones,239.8,152.62
+PROD0023,Syndicate Best-Of-Breed Mindshare,Office Supplies,Labels,729.22,573.61
+PROD0024,Transition World-Class Web-Readiness,Furniture,Chairs,92.08,81.83
+PROD0025,Drive Out-Of-The-Box Convergence,Office Supplies,Paper,898.77,585.25
+PROD0026,Incubate B2C E-Tailers,Office Supplies,Binders,800.37,642.22
+PROD0027,Innovate Magnetic Architectures,Furniture,Tables,673.43,398.67
+PROD0028,Generate Ubiquitous Web Services,Office Supplies,Art,990.26,514.54
+PROD0029,Evolve 24/365 Supply-Chains,Technology,Copiers,167.09,141.53
+PROD0030,Re-Intermediate Efficient E-Markets,Technology,Accessories,330.68,197.72
+PROD0031,Syndicate Killer Action-Items,Technology,Machines,284.54,168.69
+PROD0032,Syndicate Frictionless Partnerships,Technology,Accessories,344.56,201.2
+PROD0033,Revolutionize Extensible Niches,Office Supplies,Labels,661.76,565.94
+PROD0034,Visualize Dynamic Applications,Furniture,Chairs,675.54,376.37
+PROD0035,Disintermediate B2B Applications,Office Supplies,Labels,874.07,537.63
+PROD0036,Brand Best-Of-Breed Vortals,Technology,Phones,955.77,685.23
+PROD0037,Exploit Vertical Paradigms,Technology,Phones,913.05,491.44
+PROD0038,Cultivate B2B Networks,Furniture,Furnishings,160.04,90.33
+PROD0039,Repurpose Ubiquitous Bandwidth,Furniture,Bookcases,836.16,585.19
+PROD0040,Utilize End-To-End Functionalities,Technology,Accessories,807.47,514.09
+PROD0041,Innovate Next-Generation Markets,Furniture,Chairs,144.01,125.82
+PROD0042,Brand Visionary E-Markets,Technology,Copiers,153.42,136.87
+PROD0043,Benchmark User-Centric Synergies,Technology,Machines,832.88,632.75
+PROD0044,Optimize Impactful Roi,Office Supplies,Art,791.36,477.84
+PROD0045,Cultivate Vertical E-Markets,Technology,Phones,20.8,13.59
+PROD0046,Extend Bricks-And-Clicks Roi,Technology,Copiers,257.14,183.92
+PROD0047,Revolutionize Rich Schemas,Office Supplies,Paper,463.24,389.24
+PROD0048,Seize Mission-Critical E-Markets,Technology,Phones,612.86,482.89
+PROD0049,Reinvent Holistic Interfaces,Furniture,Bookcases,339.95,305.79
+PROD0050,Architect Synergistic Content,Office Supplies,Art,72.48,52.88
+PROD0051,Embrace Ubiquitous Mindshare,Technology,Phones,252.86,158.34
+PROD0052,Engineer Bricks-And-Clicks Schemas,Technology,Copiers,497.72,337.73
+PROD0053,Drive Cross-Media Solutions,Office Supplies,Art,171.44,104.46
+PROD0054,Re-Intermediate Synergistic Synergies,Furniture,Tables,140.25,97.0
+PROD0055,Morph Bricks-And-Clicks Paradigms,Furniture,Tables,63.97,39.98
+PROD0056,Facilitate Web-Enabled E-Commerce,Technology,Machines,410.84,357.67
+PROD0057,Generate Bleeding-Edge E-Markets,Office Supplies,Binders,360.11,296.45
+PROD0058,Scale Best-Of-Breed Platforms,Technology,Accessories,418.87,331.09
+PROD0059,Aggregate Dot-Com E-Business,Furniture,Chairs,254.44,175.73
+PROD0060,Innovate Best-Of-Breed Eyeballs,Office Supplies,Paper,765.53,555.77
+PROD0061,Empower Vertical Markets,Furniture,Bookcases,712.5,530.58
+PROD0062,Monetize Ubiquitous Eyeballs,Technology,Phones,77.93,66.06
+PROD0063,Synthesize Seamless Synergies,Office Supplies,Labels,188.14,168.1
+PROD0064,Empower Impactful Interfaces,Office Supplies,Labels,133.06,96.24
+PROD0065,Exploit Dot-Com Web Services,Furniture,Furnishings,105.56,63.55
+PROD0066,Re-Contextualize Wireless Systems,Office Supplies,Labels,163.75,142.37
+PROD0067,Architect Frictionless Communities,Office Supplies,Binders,727.1,461.17
+PROD0068,Matrix Clicks-And-Mortar Architectures,Technology,Copiers,801.63,589.41
+PROD0069,Envisioneer Interactive Communities,Office Supplies,Art,657.71,338.68
+PROD0070,Synergize Clicks-And-Mortar Schemas,Technology,Copiers,212.88,190.4
+PROD0071,Monetize One-To-One Markets,Office Supplies,Paper,831.35,676.12
+PROD0072,Syndicate Compelling Platforms,Office Supplies,Art,127.91,68.81
+PROD0073,Benchmark Strategic Systems,Furniture,Chairs,604.14,340.14
+PROD0074,Enhance B2C Portals,Technology,Phones,724.34,374.55
+PROD0075,Exploit Scalable Markets,Technology,Copiers,455.33,238.8
+PROD0076,Orchestrate Intuitive E-Business,Office Supplies,Paper,313.97,250.29
+PROD0077,Seize Enterprise Action-Items,Furniture,Chairs,558.66,283.47
+PROD0078,Monetize Distributed Info-Mediaries,Furniture,Bookcases,412.03,212.1
+PROD0079,Harness Visionary Mindshare,Furniture,Furnishings,117.03,67.34
+PROD0080,Facilitate User-Centric Schemas,Office Supplies,Art,682.74,491.29
+PROD0081,Revolutionize Value-Added Convergence,Technology,Phones,685.78,557.57
+PROD0082,Harness Best-Of-Breed Content,Furniture,Furnishings,186.05,141.72
+PROD0083,Expedite 24/7 E-Tailers,Office Supplies,Art,934.94,634.8
+PROD0084,Iterate Dot-Com Networks,Technology,Machines,386.18,215.37
+PROD0085,Extend Scalable Supply-Chains,Technology,Phones,787.35,583.32
+PROD0086,Innovate Enterprise Relationships,Technology,Copiers,804.6,503.0
+PROD0087,Scale Leading-Edge Portals,Furniture,Chairs,715.74,596.23
+PROD0088,Seize Interactive Content,Technology,Copiers,520.54,316.42
+PROD0089,Enhance Turn-Key Deliverables,Technology,Phones,404.07,305.7
+PROD0090,Integrate Mission-Critical Technologies,Office Supplies,Paper,611.91,532.89
+PROD0091,Benchmark Virtual Channels,Furniture,Furnishings,107.27,62.89
+PROD0092,Redefine Back-End E-Services,Office Supplies,Binders,793.59,590.5
+PROD0093,Unleash Value-Added Vortals,Furniture,Bookcases,866.69,774.17
+PROD0094,Benchmark Vertical Content,Office Supplies,Paper,392.99,247.57
+PROD0095,Matrix Global Eyeballs,Furniture,Furnishings,213.22,180.77
+PROD0096,E-Enable Web-Enabled Portals,Furniture,Chairs,317.0,200.66
+PROD0097,Seize Next-Generation Functionalities,Furniture,Bookcases,428.83,339.94
+PROD0098,Cultivate Value-Added Infrastructures,Furniture,Furnishings,645.53,536.38
+PROD0099,Orchestrate Synergistic Platforms,Office Supplies,Labels,204.75,149.13
+PROD0100,Maximize Open-Source Paradigms,Furniture,Bookcases,748.85,627.95
+PROD0101,Maximize Out-Of-The-Box Models,Office Supplies,Labels,566.37,460.15
+PROD0102,Facilitate Synergistic Schemas,Office Supplies,Binders,755.79,440.15
+PROD0103,Architect Ubiquitous Communities,Technology,Accessories,337.08,298.76
+PROD0104,Envisioneer One-To-One Markets,Technology,Phones,910.96,577.02
+PROD0105,Target Open-Source E-Business,Technology,Copiers,744.27,650.23
+PROD0106,Transition Cutting-Edge Info-Mediaries,Technology,Copiers,613.68,488.07
+PROD0107,Engineer Visionary Supply-Chains,Technology,Accessories,190.02,149.58
+PROD0108,Deploy Vertical Deliverables,Furniture,Chairs,924.08,702.22
+PROD0109,Innovate 24/7 Solutions,Furniture,Furnishings,195.64,139.1
+PROD0110,Seize Granular Synergies,Office Supplies,Paper,837.61,717.31
+PROD0111,Brand Visionary Technologies,Furniture,Chairs,202.47,166.85
+PROD0112,Deliver Wireless Methodologies,Furniture,Chairs,995.14,748.51
+PROD0113,Integrate Turn-Key Portals,Office Supplies,Binders,452.98,321.3
+PROD0114,Innovate Enterprise Metrics,Furniture,Chairs,76.37,58.77
+PROD0115,Seize Virtual E-Markets,Furniture,Tables,553.47,420.74
+PROD0116,Incentivize Ubiquitous Paradigms,Furniture,Bookcases,629.89,454.38
+PROD0117,Seize Vertical Roi,Office Supplies,Binders,153.91,136.92
+PROD0118,Engage Virtual Eyeballs,Technology,Phones,246.78,218.48
+PROD0119,Whiteboard Dynamic Models,Furniture,Tables,829.06,448.36
+PROD0120,Reinvent Vertical E-Services,Furniture,Chairs,763.51,516.33
+PROD0121,Drive Sticky Web-Readiness,Technology,Machines,631.79,526.19
+PROD0122,Disintermediate B2C Infrastructures,Technology,Accessories,834.68,686.47
+PROD0123,Visualize Cross-Platform Interfaces,Office Supplies,Labels,434.69,304.17
+PROD0124,Evolve Web-Enabled Portals,Office Supplies,Binders,542.29,298.54
+PROD0125,Envisioneer Impactful Networks,Furniture,Tables,417.8,252.42
+PROD0126,Target B2B Eyeballs,Office Supplies,Binders,74.12,56.16
+PROD0127,Maximize Bricks-And-Clicks Technologies,Technology,Machines,250.84,157.91
+PROD0128,Enhance Strategic Functionalities,Technology,Copiers,717.05,487.62
+PROD0129,Drive Back-End Infrastructures,Office Supplies,Art,116.66,96.11
+PROD0130,Benchmark Front-End Technologies,Technology,Copiers,861.46,643.26
+PROD0131,Architect Cross-Platform Vortals,Technology,Accessories,156.88,117.08
+PROD0132,Revolutionize Virtual Niches,Technology,Phones,707.44,433.04
+PROD0133,Transform Web-Enabled Relationships,Office Supplies,Labels,716.27,617.25
+PROD0134,Repurpose Synergistic Action-Items,Technology,Machines,921.17,547.79
+PROD0135,Visualize Holistic E-Business,Technology,Copiers,874.87,489.23
+PROD0136,Enhance Cutting-Edge Web-Readiness,Technology,Phones,543.1,450.92
+PROD0137,Orchestrate Integrated Systems,Office Supplies,Labels,432.67,370.75
+PROD0138,Synthesize Efficient Communities,Office Supplies,Paper,934.04,783.95
+PROD0139,Disintermediate Rich E-Commerce,Office Supplies,Paper,302.16,202.69
+PROD0140,Mesh Magnetic Interfaces,Technology,Machines,134.03,108.91
+PROD0141,Transition Integrated Eyeballs,Office Supplies,Labels,223.14,140.73
+PROD0142,Enhance Front-End Metrics,Office Supplies,Binders,634.0,334.36
+PROD0143,Unleash Transparent E-Business,Office Supplies,Art,853.14,444.37
+PROD0144,Synthesize 24/7 Schemas,Office Supplies,Paper,344.62,244.88
+PROD0145,Exploit Scalable Portals,Furniture,Bookcases,824.46,596.32
+PROD0146,Incentivize B2B Convergence,Furniture,Tables,579.37,468.91
+PROD0147,Orchestrate E-Business Schemas,Office Supplies,Paper,242.3,129.19
+PROD0148,Streamline Front-End E-Business,Office Supplies,Labels,428.01,224.0
+PROD0149,Harness Transparent Synergies,Technology,Copiers,586.09,495.56
+PROD0150,Engage Best-Of-Breed Bandwidth,Technology,Copiers,167.32,106.1
+PROD0151,Disintermediate Web-Enabled Deliverables,Furniture,Tables,483.35,249.72
+PROD0152,Transform Impactful Users,Furniture,Tables,858.78,579.72
+PROD0153,Leverage Distributed Interfaces,Technology,Accessories,656.67,330.44
+PROD0154,Brand Next-Generation Niches,Furniture,Furnishings,769.03,537.39
+PROD0155,Visualize Plug-And-Play Supply-Chains,Technology,Phones,737.33,385.27
+PROD0156,Streamline Front-End Functionalities,Furniture,Chairs,991.43,628.8
+PROD0157,Whiteboard Value-Added E-Markets,Technology,Copiers,360.77,191.6
+PROD0158,Mesh Plug-And-Play Channels,Furniture,Tables,313.52,215.35
+PROD0159,Expedite Robust Deliverables,Office Supplies,Art,564.18,334.77
+PROD0160,Matrix Dynamic Users,Technology,Copiers,961.63,668.18
+PROD0161,Facilitate Synergistic Vortals,Technology,Machines,86.42,52.12
+PROD0162,Envisioneer Synergistic Eyeballs,Office Supplies,Binders,996.58,650.79
+PROD0163,Incubate Proactive Technologies,Furniture,Bookcases,645.27,328.85
+PROD0164,Transform User-Centric Synergies,Furniture,Bookcases,719.82,532.23
+PROD0165,Enhance Cross-Media Partnerships,Furniture,Furnishings,816.55,521.49
+PROD0166,Productize B2C Vortals,Office Supplies,Art,160.41,110.38
+PROD0167,Matrix Collaborative Partnerships,Technology,Machines,561.92,478.08
+PROD0168,Extend Rich Schemas,Office Supplies,Binders,343.89,222.15
+PROD0169,Scale Holistic Relationships,Technology,Phones,821.59,481.21
+PROD0170,Leverage Web-Enabled Supply-Chains,Office Supplies,Paper,310.45,160.04
+PROD0171,Scale One-To-One Channels,Technology,Copiers,507.94,351.94
+PROD0172,Target Interactive Infrastructures,Furniture,Tables,37.88,27.31
+PROD0173,Morph Value-Added Functionalities,Furniture,Bookcases,670.3,480.32
+PROD0174,Monetize Proactive Initiatives,Office Supplies,Paper,609.31,426.28
+PROD0175,Engage Back-End Initiatives,Furniture,Furnishings,242.27,188.98
+PROD0176,Engineer Transparent Models,Office Supplies,Binders,804.34,424.8
+PROD0177,Visualize Scalable Paradigms,Office Supplies,Art,68.18,48.7
+PROD0178,Leverage Web-Enabled Roi,Technology,Machines,873.02,531.46
+PROD0179,Empower Extensible Action-Items,Office Supplies,Art,355.48,262.01
+PROD0180,Repurpose Proactive Architectures,Office Supplies,Binders,67.91,47.77
+PROD0181,Engineer Back-End Models,Technology,Accessories,182.11,160.01
+PROD0182,Reinvent Vertical Initiatives,Technology,Accessories,669.28,368.07
+PROD0183,Aggregate One-To-One Metrics,Office Supplies,Paper,973.45,784.89
+PROD0184,Morph Intuitive Paradigms,Technology,Machines,271.29,147.37
+PROD0185,Generate One-To-One Supply-Chains,Furniture,Tables,430.65,219.9
+PROD0186,Integrate Integrated Channels,Technology,Copiers,803.56,510.31
+PROD0187,Re-Contextualize Innovative Relationships,Technology,Accessories,82.38,71.9
+PROD0188,Extend B2B Communities,Office Supplies,Art,296.91,220.37
+PROD0189,Expedite Revolutionary E-Business,Technology,Machines,269.91,188.34
+PROD0190,Harness Clicks-And-Mortar Technologies,Technology,Accessories,501.63,405.58
+PROD0191,Whiteboard Bricks-And-Clicks Metrics,Technology,Accessories,448.16,239.12
+PROD0192,Brand Turn-Key Infrastructures,Technology,Accessories,903.52,467.79
+PROD0193,Orchestrate Cross-Media Metrics,Technology,Copiers,75.38,53.26
+PROD0194,Envisioneer Scalable Functionalities,Office Supplies,Binders,893.4,668.29
+PROD0195,Monetize End-To-End Synergies,Furniture,Bookcases,863.77,728.0
+PROD0196,Benchmark B2B Metrics,Furniture,Chairs,14.56,11.13
+PROD0197,Enable Dot-Com Interfaces,Technology,Phones,267.11,231.72
+PROD0198,Streamline Seamless Interfaces,Office Supplies,Art,145.94,129.72
+PROD0199,Enable End-To-End Supply-Chains,Furniture,Furnishings,741.46,524.0
+PROD0200,Leverage E-Business Markets,Technology,Copiers,939.03,759.17
+PROD0201,Deploy Global E-Commerce,Technology,Accessories,52.39,38.04
+PROD0202,Evolve Innovative Roi,Furniture,Chairs,998.3,680.18
+PROD0203,Drive Front-End Content,Furniture,Tables,907.56,462.26
+PROD0204,Architect Collaborative Communities,Technology,Copiers,294.7,171.81
+PROD0205,Empower E-Business Content,Office Supplies,Art,148.11,78.03
+PROD0206,Synergize 24/7 Supply-Chains,Office Supplies,Labels,451.57,329.04
+PROD0207,Enhance Value-Added Interfaces,Technology,Phones,379.62,232.25
+PROD0208,Scale Wireless Communities,Office Supplies,Binders,743.32,584.17
+PROD0209,Aggregate Efficient Info-Mediaries,Furniture,Furnishings,849.61,546.29
+PROD0210,Facilitate World-Class Action-Items,Technology,Accessories,132.7,102.8
+PROD0211,Brand Proactive Experiences,Office Supplies,Art,29.31,16.98
+PROD0212,Implement Cross-Media Supply-Chains,Furniture,Bookcases,334.62,255.11
+PROD0213,Embrace Revolutionary Vortals,Technology,Accessories,886.17,622.05
+PROD0214,Cultivate Cross-Media Solutions,Technology,Accessories,201.9,156.58
+PROD0215,E-Enable E-Business Bandwidth,Technology,Accessories,273.35,142.66
+PROD0216,Enhance Distributed Systems,Furniture,Furnishings,387.51,221.16
+PROD0217,Monetize Plug-And-Play Functionalities,Technology,Copiers,186.07,102.56
+PROD0218,Expedite Bricks-And-Clicks Web-Readiness,Furniture,Furnishings,571.1,454.87
+PROD0219,Whiteboard User-Centric Roi,Office Supplies,Binders,977.74,814.23
+PROD0220,Disintermediate Real-Time Functionalities,Furniture,Bookcases,845.26,597.18
+PROD0221,Engage Viral E-Markets,Furniture,Bookcases,349.03,179.32
+PROD0222,Target Bricks-And-Clicks Functionalities,Office Supplies,Binders,166.33,85.02
+PROD0223,Aggregate Best-Of-Breed Applications,Office Supplies,Labels,710.14,587.33
+PROD0224,Engage Collaborative Interfaces,Technology,Copiers,505.74,425.2
+PROD0225,Innovate Integrated Vortals,Office Supplies,Art,356.21,241.59
+PROD0226,Enable Bleeding-Edge Communities,Furniture,Bookcases,683.68,358.27
+PROD0227,Unleash Turn-Key Action-Items,Office Supplies,Art,990.69,618.75
+PROD0228,Reinvent Efficient E-Commerce,Office Supplies,Binders,59.71,35.44
+PROD0229,Synthesize Dynamic Synergies,Office Supplies,Paper,408.22,289.26
+PROD0230,Redefine World-Class E-Markets,Technology,Phones,85.26,45.11
+PROD0231,Unleash 24/365 Vortals,Technology,Copiers,362.05,252.66
+PROD0232,Generate Open-Source Markets,Office Supplies,Paper,967.31,764.82
+PROD0233,Disintermediate Granular Paradigms,Office Supplies,Labels,257.07,141.51
+PROD0234,Re-Contextualize Viral Markets,Furniture,Tables,889.37,600.26
+PROD0235,Re-Contextualize Turn-Key Info-Mediaries,Office Supplies,Binders,111.44,70.67
+PROD0236,Leverage Bricks-And-Clicks Supply-Chains,Furniture,Tables,105.35,68.42
+PROD0237,Whiteboard Extensible Action-Items,Office Supplies,Labels,40.08,22.2
+PROD0238,Leverage End-To-End Infrastructures,Furniture,Furnishings,379.22,250.04
+PROD0239,Grow Strategic Users,Office Supplies,Paper,566.02,424.85
+PROD0240,Utilize Distributed Platforms,Furniture,Bookcases,218.7,114.35
+PROD0241,Maximize Collaborative E-Markets,Furniture,Chairs,882.27,770.14
+PROD0242,Cultivate Extensible Experiences,Technology,Accessories,237.63,161.9
+PROD0243,Architect Value-Added Interfaces,Furniture,Furnishings,622.32,396.74
+PROD0244,Reinvent End-To-End Deliverables,Technology,Phones,14.82,11.89
+PROD0245,Engineer Customized Content,Furniture,Bookcases,312.87,278.63
+PROD0246,Maximize Enterprise Info-Mediaries,Technology,Phones,88.33,64.06
+PROD0247,Strategize Viral Methodologies,Furniture,Tables,130.75,101.33
+PROD0248,Transition Integrated Portals,Office Supplies,Paper,665.41,387.37
+PROD0249,Target 24/365 Schemas,Technology,Copiers,548.69,317.94
+PROD0250,Evolve B2B E-Markets,Furniture,Furnishings,566.42,284.67
+PROD0251,Expedite Dot-Com Supply-Chains,Furniture,Chairs,164.98,145.63
+PROD0252,Synthesize Intuitive Content,Technology,Accessories,475.48,272.54
+PROD0253,Reinvent Integrated E-Markets,Furniture,Bookcases,797.7,628.65
+PROD0254,Benchmark 24/365 Solutions,Technology,Machines,216.01,165.03
+PROD0255,Aggregate Open-Source Initiatives,Office Supplies,Paper,420.54,228.93
+PROD0256,Repurpose Dynamic Deliverables,Technology,Phones,182.75,149.95
+PROD0257,Incubate Mission-Critical Info-Mediaries,Furniture,Chairs,145.45,94.53
+PROD0258,Redefine Interactive E-Tailers,Technology,Accessories,23.62,20.05
+PROD0259,Optimize Extensible E-Services,Office Supplies,Labels,651.09,398.33
+PROD0260,Utilize Innovative Platforms,Office Supplies,Paper,85.19,68.34
+PROD0261,Re-Contextualize Innovative Content,Office Supplies,Paper,468.36,270.76
+PROD0262,Empower Mission-Critical Mindshare,Technology,Accessories,967.0,804.17
+PROD0263,Transition Front-End Portals,Technology,Machines,228.86,127.74
+PROD0264,Extend Visionary Infrastructures,Office Supplies,Binders,873.68,447.69
+PROD0265,Morph 24/7 Networks,Office Supplies,Labels,993.15,680.52
+PROD0266,Evolve One-To-One Bandwidth,Furniture,Chairs,991.98,844.38
+PROD0267,Integrate Scalable Supply-Chains,Furniture,Tables,689.11,617.41
+PROD0268,Empower Global Web-Readiness,Technology,Copiers,132.62,112.89
+PROD0269,Facilitate Back-End Bandwidth,Furniture,Bookcases,374.16,272.39
+PROD0270,Iterate User-Centric Interfaces,Office Supplies,Art,337.67,243.82
+PROD0271,Whiteboard Robust Methodologies,Office Supplies,Labels,977.84,614.47
+PROD0272,Maximize Granular Roi,Furniture,Tables,649.61,573.75
+PROD0273,Deploy Seamless Channels,Technology,Phones,15.49,8.04
+PROD0274,Re-Contextualize Leading-Edge Supply-Chains,Office Supplies,Art,155.98,133.24
+PROD0275,Leverage Impactful Supply-Chains,Technology,Copiers,567.68,506.35
+PROD0276,Productize Best-Of-Breed Platforms,Furniture,Chairs,239.87,172.51
+PROD0277,Empower Out-Of-The-Box E-Markets,Furniture,Bookcases,691.77,539.41
+PROD0278,Engineer Rich Infrastructures,Office Supplies,Binders,343.4,251.04
+PROD0279,Deliver Bricks-And-Clicks Infrastructures,Technology,Machines,681.92,597.19
+PROD0280,Cultivate B2C Content,Technology,Phones,853.53,504.61
+PROD0281,Grow Value-Added E-Services,Technology,Copiers,471.69,356.0
+PROD0282,Repurpose Intuitive Functionalities,Furniture,Bookcases,668.46,381.24
+PROD0283,Syndicate Dynamic Functionalities,Furniture,Furnishings,675.37,363.14
+PROD0284,Strategize Leading-Edge Synergies,Office Supplies,Labels,550.7,348.21
+PROD0285,Deploy Dynamic Technologies,Office Supplies,Paper,730.73,399.9
+PROD0286,Optimize Magnetic Users,Furniture,Bookcases,659.33,550.22
+PROD0287,Repurpose Vertical Markets,Furniture,Bookcases,384.84,265.56
+PROD0288,Re-Intermediate Wireless Mindshare,Office Supplies,Binders,175.39,139.77
+PROD0289,Strategize End-To-End Paradigms,Furniture,Furnishings,539.51,315.1
+PROD0290,Deploy End-To-End Architectures,Office Supplies,Binders,894.14,575.92
+PROD0291,Harness World-Class Action-Items,Furniture,Furnishings,191.99,166.98
+PROD0292,Facilitate Customized Paradigms,Office Supplies,Paper,619.29,395.39
+PROD0293,Strategize Ubiquitous Roi,Technology,Copiers,834.89,740.24
+PROD0294,Morph Plug-And-Play E-Business,Office Supplies,Paper,919.55,544.26
+PROD0295,Unleash Customized Info-Mediaries,Furniture,Chairs,306.24,171.1
+PROD0296,Visualize Next-Generation Architectures,Furniture,Chairs,737.88,504.24
+PROD0297,Integrate Magnetic Communities,Furniture,Chairs,562.79,323.92
+PROD0298,Streamline Rich Models,Furniture,Bookcases,496.04,276.41
+PROD0299,Reinvent Global Roi,Office Supplies,Binders,267.8,203.55
+PROD0300,Orchestrate 24/365 Convergence,Office Supplies,Art,126.35,96.77
+PROD0301,Revolutionize Dot-Com Interfaces,Office Supplies,Paper,843.93,738.39
+PROD0302,Morph Interactive Convergence,Office Supplies,Labels,376.85,240.27
+PROD0303,Disintermediate End-To-End Web-Readiness,Furniture,Furnishings,193.13,136.25
+PROD0304,Engineer Cross-Platform Portals,Technology,Machines,213.79,117.3
+PROD0305,Empower Frictionless Deliverables,Technology,Phones,310.31,235.44
+PROD0306,Transform Web-Enabled Relationships,Office Supplies,Binders,118.18,89.95
+PROD0307,Harness B2C Networks,Office Supplies,Art,524.7,270.32
+PROD0308,Enhance Impactful Info-Mediaries,Technology,Machines,859.83,621.08
+PROD0309,Leverage Interactive Networks,Furniture,Furnishings,990.68,656.77
+PROD0310,Integrate Scalable Systems,Office Supplies,Paper,636.36,557.22
+PROD0311,Architect Real-Time Content,Technology,Accessories,240.89,150.83
+PROD0312,Architect Out-Of-The-Box Schemas,Furniture,Tables,189.49,119.72
+PROD0313,Envisioneer Collaborative Models,Technology,Phones,17.73,12.17
+PROD0314,Syndicate Cutting-Edge Applications,Furniture,Tables,684.48,403.72
+PROD0315,Seize Back-End Content,Office Supplies,Labels,207.34,129.87
+PROD0316,Expedite Ubiquitous Niches,Technology,Machines,885.34,471.38
+PROD0317,Orchestrate Dot-Com Users,Technology,Copiers,142.88,118.25
+PROD0318,Extend Plug-And-Play Supply-Chains,Office Supplies,Art,231.28,144.11
+PROD0319,Empower Out-Of-The-Box Niches,Furniture,Tables,851.04,703.42
+PROD0320,Harness E-Business Niches,Office Supplies,Art,454.02,251.37
+PROD0321,Deploy Value-Added Infrastructures,Office Supplies,Binders,564.4,372.04
+PROD0322,Unleash Best-Of-Breed Synergies,Furniture,Furnishings,684.15,564.42
+PROD0323,Transform Compelling Technologies,Technology,Machines,939.62,616.03
+PROD0324,Transition Magnetic Content,Office Supplies,Art,765.87,587.12
+PROD0325,Disintermediate User-Centric Users,Technology,Phones,271.49,136.33
+PROD0326,Architect B2C Experiences,Furniture,Bookcases,633.11,551.27
+PROD0327,Mesh Viral Communities,Furniture,Chairs,346.59,205.72
+PROD0328,Optimize Web-Enabled Initiatives,Office Supplies,Binders,333.35,236.4
+PROD0329,Scale Robust Info-Mediaries,Furniture,Bookcases,266.36,182.18
+PROD0330,Re-Intermediate Vertical Portals,Technology,Phones,960.41,674.99
+PROD0331,Utilize World-Class Methodologies,Furniture,Bookcases,51.05,34.58
+PROD0332,Drive Revolutionary Markets,Furniture,Chairs,539.93,274.66
+PROD0333,Deploy Value-Added Architectures,Office Supplies,Labels,124.25,104.29
+PROD0334,Expedite Strategic Models,Furniture,Tables,415.74,346.32
+PROD0335,Brand E-Business E-Commerce,Technology,Machines,481.39,399.38
+PROD0336,Streamline Next-Generation Applications,Technology,Accessories,829.64,654.83
+PROD0337,Empower Ubiquitous Solutions,Office Supplies,Art,240.45,149.62
+PROD0338,Empower Transparent E-Markets,Office Supplies,Art,244.61,170.36
+PROD0339,Whiteboard Next-Generation Action-Items,Office Supplies,Labels,994.7,788.82
+PROD0340,Optimize Magnetic Interfaces,Furniture,Furnishings,636.18,553.84
+PROD0341,Repurpose Innovative Platforms,Technology,Accessories,885.9,462.89
+PROD0342,Incentivize Robust Supply-Chains,Furniture,Furnishings,241.44,135.04
+PROD0343,Enhance E-Business Portals,Furniture,Tables,340.07,256.18
+PROD0344,Monetize Visionary Content,Furniture,Bookcases,524.31,319.43
+PROD0345,Harness Best-Of-Breed Schemas,Office Supplies,Labels,80.26,58.67
+PROD0346,Revolutionize Seamless Niches,Furniture,Tables,666.57,510.44
+PROD0347,Utilize Granular Networks,Office Supplies,Paper,844.98,434.03
+PROD0348,Iterate Collaborative Partnerships,Furniture,Chairs,997.34,687.66
+PROD0349,Seize 24/7 E-Business,Technology,Copiers,909.07,701.76
+PROD0350,Strategize Cross-Platform Action-Items,Office Supplies,Art,476.85,427.2
+PROD0351,Evolve Innovative Channels,Technology,Accessories,557.44,333.41
+PROD0352,Evolve World-Class Schemas,Furniture,Chairs,72.53,63.5
+PROD0353,E-Enable User-Centric Networks,Technology,Machines,593.13,425.39
+PROD0354,Synergize Granular Supply-Chains,Furniture,Bookcases,191.84,109.09
+PROD0355,Synergize Customized Action-Items,Technology,Machines,578.39,365.9
+PROD0356,Mesh Vertical Convergence,Office Supplies,Binders,839.13,454.17
+PROD0357,Monetize Proactive Partnerships,Office Supplies,Labels,576.81,497.02
+PROD0358,Unleash Enterprise Partnerships,Office Supplies,Paper,835.47,445.57
+PROD0359,Utilize Holistic Technologies,Furniture,Tables,960.57,669.75
+PROD0360,Orchestrate Collaborative Methodologies,Furniture,Furnishings,716.15,620.25
+PROD0361,Revolutionize Distributed Applications,Office Supplies,Labels,154.1,121.18
+PROD0362,Facilitate Robust Paradigms,Office Supplies,Art,607.53,321.78
+PROD0363,Synergize Intuitive Communities,Technology,Phones,525.19,376.74
+PROD0364,Evolve Extensible Deliverables,Technology,Machines,549.4,407.74
+PROD0365,Re-Contextualize Collaborative E-Markets,Office Supplies,Labels,332.17,203.48
+PROD0366,Redefine Compelling E-Markets,Office Supplies,Art,723.89,573.98
+PROD0367,Enhance Leading-Edge E-Markets,Office Supplies,Paper,484.92,368.58
+PROD0368,Productize Scalable Deliverables,Technology,Phones,234.2,173.05
+PROD0369,Envisioneer Vertical E-Commerce,Technology,Phones,395.35,227.26
+PROD0370,Generate Distributed Action-Items,Furniture,Tables,217.67,145.11
+PROD0371,Disintermediate Innovative Markets,Office Supplies,Labels,611.24,497.68
+PROD0372,Morph Cross-Media Mindshare,Furniture,Tables,670.86,458.93
+PROD0373,Target Front-End Architectures,Furniture,Tables,941.57,575.22
+PROD0374,Synthesize Wireless Action-Items,Furniture,Chairs,489.39,283.37
+PROD0375,Leverage End-To-End Users,Furniture,Bookcases,437.99,265.47
+PROD0376,Synthesize Back-End Convergence,Technology,Copiers,317.63,265.6
+PROD0377,Harness Mission-Critical Channels,Technology,Phones,590.5,411.26
+PROD0378,Utilize Virtual Niches,Technology,Machines,755.71,551.67
+PROD0379,Brand Magnetic Content,Furniture,Chairs,663.37,399.27
+PROD0380,Exploit Integrated Systems,Office Supplies,Art,276.95,173.68
+PROD0381,Strategize Cross-Media Infrastructures,Furniture,Chairs,758.7,677.0
+PROD0382,Engage Wireless Schemas,Furniture,Tables,985.84,752.68
+PROD0383,Visualize B2C Relationships,Technology,Phones,498.08,328.79
+PROD0384,Mesh Ubiquitous Networks,Technology,Phones,300.2,192.48
+PROD0385,Target Customized E-Markets,Furniture,Furnishings,825.25,533.57
+PROD0386,Implement Sticky Experiences,Technology,Copiers,621.16,440.46
+PROD0387,Target Customized Technologies,Furniture,Furnishings,500.62,397.43
+PROD0388,Incentivize Bleeding-Edge Initiatives,Office Supplies,Paper,176.47,146.03
+PROD0389,Aggregate Extensible Schemas,Furniture,Tables,203.34,153.06
+PROD0390,Re-Intermediate Innovative Experiences,Office Supplies,Labels,982.06,832.52
+PROD0391,Integrate Rich Info-Mediaries,Technology,Phones,824.19,429.94
+PROD0392,Leverage Wireless Initiatives,Furniture,Tables,615.76,426.85
+PROD0393,Enable Cross-Media Markets,Furniture,Bookcases,423.29,279.48
+PROD0394,Morph 24/7 Web Services,Furniture,Bookcases,945.59,585.15
+PROD0395,Iterate Front-End Architectures,Technology,Copiers,616.06,327.29
+PROD0396,Grow Impactful Vortals,Furniture,Bookcases,397.48,221.29
+PROD0397,Synergize Bleeding-Edge E-Services,Furniture,Furnishings,23.51,18.23
+PROD0398,Productize Next-Generation Metrics,Office Supplies,Paper,767.17,653.13
+PROD0399,Drive Impactful Synergies,Office Supplies,Paper,46.58,38.25
+PROD0400,Benchmark Compelling Deliverables,Office Supplies,Art,153.84,96.23
+PROD0401,Implement Rich Deliverables,Technology,Accessories,134.76,119.24
+PROD0402,Incubate Synergistic Infrastructures,Office Supplies,Labels,355.95,272.4
+PROD0403,Extend Strategic Supply-Chains,Furniture,Bookcases,866.89,767.44
+PROD0404,Embrace User-Centric Applications,Furniture,Bookcases,157.77,102.35
+PROD0405,Visualize Vertical Experiences,Furniture,Bookcases,344.96,243.71
+PROD0406,Seize 24/7 Markets,Technology,Accessories,213.79,159.92
+PROD0407,Exploit Best-Of-Breed Deliverables,Technology,Copiers,648.89,441.12
+PROD0408,Synergize Mission-Critical Schemas,Technology,Accessories,388.0,226.27
+PROD0409,Iterate Cross-Platform Info-Mediaries,Technology,Accessories,385.09,332.43
+PROD0410,Orchestrate 24/7 Relationships,Furniture,Tables,740.03,401.11
+PROD0411,Harness Bleeding-Edge Methodologies,Office Supplies,Art,539.1,343.04
+PROD0412,Revolutionize Revolutionary Content,Technology,Accessories,221.69,171.84
+PROD0413,Seize Impactful Content,Office Supplies,Art,562.16,325.11
+PROD0414,Matrix Rich Mindshare,Technology,Phones,46.57,29.69
+PROD0415,Deploy Robust Platforms,Office Supplies,Binders,258.14,155.93
+PROD0416,Morph End-To-End Models,Office Supplies,Labels,24.43,21.95
+PROD0417,Synergize Interactive Schemas,Technology,Copiers,90.96,72.2
+PROD0418,Transition Frictionless Channels,Office Supplies,Binders,537.96,425.2
+PROD0419,Syndicate Best-Of-Breed Architectures,Furniture,Furnishings,861.42,458.15
+PROD0420,Transform Vertical Markets,Furniture,Tables,104.49,58.82
+PROD0421,Syndicate B2B Models,Office Supplies,Paper,152.6,112.44
+PROD0422,Evolve Mission-Critical Web Services,Office Supplies,Art,283.72,225.22
+PROD0423,Deliver Granular Methodologies,Technology,Phones,923.77,746.04
+PROD0424,Streamline Next-Generation Paradigms,Technology,Copiers,202.01,128.79
+PROD0425,Productize Compelling Infrastructures,Office Supplies,Paper,780.33,570.18
+PROD0426,Benchmark Open-Source Channels,Office Supplies,Binders,806.47,702.09
+PROD0427,Incentivize World-Class Convergence,Technology,Phones,475.69,401.46
+PROD0428,Innovate Bricks-And-Clicks Vortals,Furniture,Chairs,415.63,231.69
+PROD0429,Deliver Dot-Com Functionalities,Furniture,Chairs,486.27,304.93
+PROD0430,Cultivate Turn-Key Vortals,Office Supplies,Labels,923.01,534.57
+PROD0431,Re-Intermediate Wireless Technologies,Technology,Phones,425.92,236.71
+PROD0432,Facilitate Front-End Methodologies,Furniture,Chairs,787.43,411.37
+PROD0433,Extend Cutting-Edge Functionalities,Office Supplies,Labels,478.58,315.19
+PROD0434,Maximize B2B Models,Technology,Copiers,951.37,528.5
+PROD0435,Morph B2C Bandwidth,Technology,Machines,278.89,161.57
+PROD0436,Target Plug-And-Play E-Markets,Technology,Phones,337.94,203.05
+PROD0437,Generate Holistic Action-Items,Technology,Phones,400.23,267.11
+PROD0438,Integrate World-Class Content,Office Supplies,Labels,988.66,682.13
+PROD0439,Productize Real-Time Supply-Chains,Office Supplies,Art,532.63,412.06
+PROD0440,Orchestrate Bleeding-Edge Niches,Office Supplies,Labels,472.91,396.93
+PROD0441,Re-Intermediate End-To-End Experiences,Technology,Machines,837.66,494.0
+PROD0442,Leverage Wireless Platforms,Furniture,Tables,979.33,496.9
+PROD0443,Target Magnetic Niches,Furniture,Tables,464.82,330.3
+PROD0444,Enable Cross-Media Info-Mediaries,Furniture,Bookcases,322.55,271.8
+PROD0445,Benchmark Magnetic Channels,Office Supplies,Labels,551.4,307.01
+PROD0446,Morph Seamless Web-Readiness,Furniture,Bookcases,189.48,105.5
+PROD0447,Exploit User-Centric Users,Office Supplies,Binders,456.5,274.36
+PROD0448,Transition Transparent Solutions,Office Supplies,Art,982.63,759.95
+PROD0449,Optimize Enterprise Users,Furniture,Furnishings,432.76,356.39
+PROD0450,Incubate Holistic Solutions,Office Supplies,Art,312.36,209.67
+PROD0451,Exploit B2B Applications,Furniture,Tables,229.52,186.88
+PROD0452,Productize Viral E-Markets,Furniture,Tables,190.33,161.19
+PROD0453,Deploy Seamless Initiatives,Technology,Machines,908.07,555.06
+PROD0454,Transition Impactful Action-Items,Office Supplies,Paper,363.97,268.53
+PROD0455,Empower Frictionless Paradigms,Furniture,Bookcases,312.76,232.42
+PROD0456,Syndicate User-Centric Vortals,Technology,Phones,13.94,8.91
+PROD0457,Engineer Enterprise Experiences,Office Supplies,Paper,509.61,440.65
+PROD0458,Harness Efficient Metrics,Office Supplies,Labels,668.15,528.46
+PROD0459,Transform Scalable Supply-Chains,Furniture,Bookcases,371.73,213.72
+PROD0460,Cultivate Mission-Critical E-Services,Office Supplies,Binders,506.21,433.07
+PROD0461,Redefine Ubiquitous Vortals,Technology,Machines,408.48,227.61
+PROD0462,Incubate Distributed Initiatives,Furniture,Furnishings,206.86,128.29
+PROD0463,Visualize Visionary Action-Items,Technology,Accessories,325.63,192.98
+PROD0464,Generate Mission-Critical Paradigms,Technology,Machines,523.05,440.19
+PROD0465,Innovate Web-Enabled Deliverables,Office Supplies,Labels,608.71,357.94
+PROD0466,Generate World-Class Content,Office Supplies,Art,598.11,364.81
+PROD0467,Architect Clicks-And-Mortar Initiatives,Office Supplies,Labels,927.39,566.86
+PROD0468,Deploy Open-Source Metrics,Office Supplies,Labels,593.91,474.61
+PROD0469,Revolutionize Enterprise Partnerships,Office Supplies,Art,231.12,155.71
+PROD0470,Maximize Efficient Markets,Technology,Accessories,221.69,181.78
+PROD0471,Iterate Robust Convergence,Technology,Machines,588.61,483.61
+PROD0472,Engage Enterprise Eyeballs,Office Supplies,Binders,204.28,170.66
+PROD0473,Optimize World-Class Technologies,Technology,Phones,138.18,94.67
+PROD0474,Visualize Wireless E-Services,Furniture,Bookcases,763.44,639.61
+PROD0475,Envisioneer Web-Enabled Markets,Technology,Machines,358.72,179.48
+PROD0476,Envisioneer Cross-Media Networks,Office Supplies,Art,898.03,735.06
+PROD0477,Whiteboard Innovative Infrastructures,Office Supplies,Labels,845.46,453.51
+PROD0478,Brand Sticky Systems,Office Supplies,Paper,659.57,536.98
+PROD0479,Transition World-Class Relationships,Technology,Machines,808.66,663.85
+PROD0480,Drive Magnetic E-Business,Office Supplies,Art,840.24,488.94
+PROD0481,Architect Dynamic Info-Mediaries,Office Supplies,Labels,147.45,91.16
+PROD0482,Enable Seamless Supply-Chains,Office Supplies,Labels,416.34,277.99
+PROD0483,Facilitate Transparent Action-Items,Office Supplies,Art,796.94,611.83
+PROD0484,Utilize B2B Initiatives,Furniture,Tables,15.99,8.31
+PROD0485,Envisioneer Granular Experiences,Furniture,Bookcases,772.22,537.65
+PROD0486,Benchmark Revolutionary Channels,Office Supplies,Art,836.52,731.07
+PROD0487,Maximize Strategic Bandwidth,Office Supplies,Paper,800.22,560.13
+PROD0488,Enable End-To-End Niches,Furniture,Tables,168.98,109.86
+PROD0489,Harness Frictionless Portals,Office Supplies,Art,94.23,49.82
+PROD0490,Engage Revolutionary Infrastructures,Office Supplies,Paper,340.76,218.24
+PROD0491,Syndicate Best-Of-Breed Portals,Furniture,Chairs,638.31,543.22
+PROD0492,Innovate Sticky Systems,Office Supplies,Labels,590.37,452.96
+PROD0493,Integrate Magnetic Content,Furniture,Furnishings,920.74,468.63
+PROD0494,Target Killer E-Tailers,Furniture,Bookcases,544.55,288.61
+PROD0495,Expedite Global Architectures,Office Supplies,Paper,408.78,356.87
+PROD0496,Re-Contextualize B2B Roi,Office Supplies,Labels,47.47,36.87
+PROD0497,Redefine Next-Generation Methodologies,Technology,Machines,754.06,452.68
+PROD0498,Exploit Mission-Critical Schemas,Office Supplies,Labels,103.7,51.93
+PROD0499,Revolutionize Compelling Info-Mediaries,Technology,Machines,779.45,586.58
+PROD0500,Aggregate Distributed Deliverables,Office Supplies,Binders,469.53,418.41
+PROD0501,Empower Efficient E-Tailers,Furniture,Furnishings,698.44,365.19
+PROD0502,Transform Visionary Networks,Technology,Accessories,814.81,418.12
+PROD0503,Deliver Ubiquitous Content,Technology,Copiers,502.61,403.75
+PROD0504,Maximize Distributed Applications,Office Supplies,Labels,190.76,101.34
+PROD0505,Re-Contextualize Ubiquitous Architectures,Technology,Phones,24.27,20.71
+PROD0506,Harness Intuitive Methodologies,Office Supplies,Paper,288.72,212.51
+PROD0507,Expedite Web-Enabled Experiences,Office Supplies,Art,892.43,610.57
+PROD0508,Grow Distributed Vortals,Technology,Machines,304.58,202.73
+PROD0509,Enhance Out-Of-The-Box Initiatives,Technology,Machines,708.4,507.34
+PROD0510,Engineer Impactful Action-Items,Technology,Machines,578.35,488.53
+PROD0511,Enhance End-To-End Web-Readiness,Office Supplies,Paper,605.28,307.58
+PROD0512,Aggregate B2B Applications,Furniture,Furnishings,385.15,314.53
+PROD0513,Transform Open-Source Mindshare,Furniture,Bookcases,520.78,405.2
+PROD0514,Engage Collaborative Infrastructures,Office Supplies,Binders,256.35,229.11
+PROD0515,Transform End-To-End Channels,Office Supplies,Art,998.5,891.83
+PROD0516,Enable Robust Deliverables,Furniture,Chairs,393.49,234.36
+PROD0517,Deliver Extensible Synergies,Office Supplies,Binders,384.55,327.03
+PROD0518,Incubate Transparent Platforms,Technology,Copiers,954.87,653.84
+PROD0519,Innovate Collaborative Communities,Technology,Copiers,368.37,327.07
+PROD0520,Productize Real-Time Eyeballs,Furniture,Furnishings,140.22,123.05
+PROD0521,Exploit Bricks-And-Clicks Methodologies,Office Supplies,Paper,479.95,276.9
+PROD0522,Optimize Value-Added E-Tailers,Technology,Machines,22.77,18.57
+PROD0523,Empower Efficient Deliverables,Furniture,Bookcases,401.65,316.15
+PROD0524,Leverage Wireless Channels,Furniture,Tables,596.17,450.71
+PROD0525,Matrix Strategic Mindshare,Furniture,Tables,287.74,218.09
+PROD0526,Orchestrate Next-Generation Roi,Technology,Accessories,772.54,394.45
+PROD0527,Visualize Cross-Platform E-Services,Office Supplies,Binders,160.31,143.43
+PROD0528,Synthesize Front-End Applications,Office Supplies,Art,26.28,23.2
+PROD0529,Incentivize Customized Methodologies,Technology,Copiers,175.63,127.1
+PROD0530,Deliver Cutting-Edge Niches,Furniture,Bookcases,126.4,93.9
+PROD0531,Redefine Efficient E-Business,Office Supplies,Paper,952.45,663.54
+PROD0532,Maximize Strategic Systems,Furniture,Furnishings,171.64,88.73
+PROD0533,Matrix Enterprise Convergence,Furniture,Furnishings,996.63,535.35
+PROD0534,Brand Plug-And-Play Initiatives,Furniture,Chairs,358.34,264.27
+PROD0535,Enhance Extensible Web-Readiness,Office Supplies,Art,234.11,172.27
+PROD0536,Deploy Revolutionary Web-Readiness,Technology,Accessories,642.9,459.01
+PROD0537,Re-Intermediate Distributed Niches,Furniture,Furnishings,154.52,115.12
+PROD0538,Facilitate Seamless Metrics,Office Supplies,Paper,118.05,62.94
+PROD0539,Seize Clicks-And-Mortar Supply-Chains,Technology,Machines,287.33,175.38
+PROD0540,Maximize Integrated Platforms,Technology,Phones,904.97,610.62
+PROD0541,Repurpose Interactive Web Services,Furniture,Bookcases,69.72,50.01
+PROD0542,Revolutionize Global Applications,Office Supplies,Labels,312.96,270.95
+PROD0543,Strategize 24/7 Niches,Technology,Machines,355.49,204.64
+PROD0544,Engage Web-Enabled E-Services,Furniture,Furnishings,959.95,535.12
+PROD0545,Expedite Dot-Com E-Services,Office Supplies,Art,70.7,62.13
+PROD0546,Deploy B2C Bandwidth,Technology,Accessories,799.64,404.98
+PROD0547,Exploit One-To-One E-Markets,Technology,Copiers,11.0,6.41
+PROD0548,Utilize E-Business Networks,Office Supplies,Paper,700.47,538.16
+PROD0549,Enable Wireless Schemas,Technology,Machines,432.63,334.91
+PROD0550,Streamline Next-Generation Systems,Furniture,Furnishings,792.04,457.18
+PROD0551,Engineer Holistic Deliverables,Furniture,Bookcases,502.83,387.76
+PROD0552,Incubate Visionary Systems,Office Supplies,Paper,766.82,581.73
+PROD0553,Envisioneer Clicks-And-Mortar Communities,Furniture,Chairs,971.7,576.05
+PROD0554,Scale Web-Enabled Models,Technology,Phones,226.41,133.52
+PROD0555,Incentivize Sticky Bandwidth,Office Supplies,Paper,200.76,155.97
+PROD0556,Evolve Cutting-Edge Functionalities,Technology,Copiers,586.37,463.95
+PROD0557,Revolutionize Efficient Web Services,Office Supplies,Binders,89.46,57.41
+PROD0558,Seize Compelling Experiences,Furniture,Furnishings,753.09,512.87
+PROD0559,Iterate Cross-Platform Networks,Office Supplies,Art,206.31,184.26
+PROD0560,Transition Intuitive E-Commerce,Technology,Machines,457.42,410.85
+PROD0561,Syndicate Next-Generation Portals,Technology,Accessories,250.71,169.95
+PROD0562,Synthesize Vertical Info-Mediaries,Technology,Machines,944.53,548.22
+PROD0563,Empower Transparent Synergies,Furniture,Furnishings,268.87,225.94
+PROD0564,Embrace User-Centric Roi,Furniture,Chairs,312.7,195.16
+PROD0565,Grow Virtual Metrics,Furniture,Tables,646.55,457.92
+PROD0566,Harness Synergistic Experiences,Technology,Copiers,355.54,220.15
+PROD0567,Extend Revolutionary Portals,Technology,Phones,971.59,758.94
+PROD0568,Empower World-Class Synergies,Technology,Accessories,207.42,147.21
+PROD0569,Deliver 24/7 Schemas,Office Supplies,Paper,717.48,575.1
+PROD0570,Synergize Magnetic Functionalities,Office Supplies,Binders,198.47,151.09
+PROD0571,Re-Contextualize User-Centric Action-Items,Technology,Phones,384.65,320.7
+PROD0572,Visualize Back-End Technologies,Technology,Machines,719.26,583.92
+PROD0573,Re-Intermediate Scalable Systems,Office Supplies,Binders,740.09,470.15
+PROD0574,Matrix Seamless Initiatives,Technology,Accessories,668.09,350.58
+PROD0575,Expedite Back-End Portals,Technology,Accessories,12.96,9.66
+PROD0576,Evolve Turn-Key Channels,Technology,Accessories,276.7,229.7
+PROD0577,Productize Scalable Users,Office Supplies,Binders,166.65,116.91
+PROD0578,Evolve Revolutionary Paradigms,Technology,Copiers,387.32,297.72
+PROD0579,Implement World-Class Technologies,Technology,Accessories,418.25,318.61
+PROD0580,Whiteboard Cross-Media Info-Mediaries,Furniture,Chairs,384.74,313.17
+PROD0581,Utilize E-Business Paradigms,Furniture,Bookcases,523.87,281.99
+PROD0582,Exploit Frictionless Technologies,Office Supplies,Binders,682.6,512.81
+PROD0583,Transform Strategic Functionalities,Furniture,Chairs,167.54,135.45
+PROD0584,Productize Cross-Platform Action-Items,Furniture,Chairs,10.36,9.1
+PROD0585,Enhance B2B Platforms,Technology,Phones,956.35,754.45
+PROD0586,Engage World-Class Architectures,Technology,Phones,598.06,500.8
+PROD0587,Morph Plug-And-Play Systems,Office Supplies,Art,117.76,96.55
+PROD0588,Extend Out-Of-The-Box Partnerships,Furniture,Tables,878.87,690.41
+PROD0589,Embrace Magnetic Experiences,Furniture,Bookcases,549.22,401.52
+PROD0590,Envisioneer Sticky Networks,Furniture,Tables,515.24,431.88
+PROD0591,Scale Dot-Com Applications,Technology,Machines,657.04,521.41
+PROD0592,Morph Best-Of-Breed Metrics,Technology,Copiers,145.81,113.72
+PROD0593,Monetize Extensible E-Business,Furniture,Furnishings,853.24,544.07
+PROD0594,Aggregate Web-Enabled E-Commerce,Office Supplies,Art,68.1,59.22
+PROD0595,Cultivate Impactful Initiatives,Technology,Phones,775.37,544.49
+PROD0596,Transition Vertical Solutions,Office Supplies,Binders,530.48,386.74
+PROD0597,Engineer Mission-Critical Roi,Technology,Phones,636.75,319.79
+PROD0598,Repurpose Frictionless Models,Technology,Machines,658.99,440.93
+PROD0599,Utilize Open-Source Action-Items,Technology,Phones,65.87,40.59
+PROD0600,Maximize Integrated Solutions,Technology,Copiers,316.68,171.92
+PROD0601,Embrace Interactive Roi,Office Supplies,Art,194.14,129.72
+PROD0602,Synthesize 24/7 Bandwidth,Furniture,Tables,53.47,27.64
+PROD0603,Empower User-Centric Portals,Office Supplies,Paper,177.12,128.03
+PROD0604,Exploit Rich Metrics,Furniture,Bookcases,52.32,26.76
+PROD0605,Expedite Clicks-And-Mortar Mindshare,Furniture,Chairs,47.47,34.45
+PROD0606,Generate Sticky Web Services,Furniture,Chairs,781.08,403.67
+PROD0607,Engineer Out-Of-The-Box Partnerships,Technology,Copiers,578.72,320.21
+PROD0608,Re-Contextualize B2C Web-Readiness,Furniture,Chairs,925.1,610.98
+PROD0609,Productize B2B Niches,Office Supplies,Labels,34.09,25.34
+PROD0610,Exploit Visionary Deliverables,Office Supplies,Paper,481.46,383.03
+PROD0611,Integrate Interactive Convergence,Technology,Copiers,459.18,342.71
+PROD0612,Synthesize Compelling Metrics,Technology,Phones,846.08,480.48
+PROD0613,Productize Compelling Roi,Furniture,Tables,861.14,485.37
+PROD0614,Grow 24/7 Paradigms,Furniture,Chairs,837.88,643.18
+PROD0615,Engineer Intuitive E-Commerce,Office Supplies,Art,389.69,206.26
+PROD0616,Re-Intermediate 24/7 Systems,Technology,Phones,354.14,179.67
+PROD0617,Engage Wireless Communities,Office Supplies,Binders,524.22,308.59
+PROD0618,Engage 24/365 Mindshare,Furniture,Tables,440.63,316.47
+PROD0619,Transform Intuitive Roi,Furniture,Chairs,500.83,390.57
+PROD0620,Architect Back-End Functionalities,Furniture,Chairs,987.78,733.47
+PROD0621,Transform Dynamic E-Services,Furniture,Chairs,948.73,782.03
+PROD0622,Brand Cross-Platform Methodologies,Furniture,Tables,473.59,265.02
+PROD0623,Implement Rich Platforms,Office Supplies,Binders,451.41,233.35
+PROD0624,Synergize Viral Solutions,Office Supplies,Labels,349.32,218.8
+PROD0625,Productize Revolutionary Systems,Office Supplies,Paper,79.72,50.04
+PROD0626,Target Vertical Platforms,Office Supplies,Labels,145.24,121.74
+PROD0627,Incubate Back-End Convergence,Technology,Copiers,283.49,217.71
+PROD0628,Deploy World-Class Experiences,Furniture,Bookcases,205.76,174.74
+PROD0629,Maximize Enterprise E-Services,Technology,Phones,599.23,447.19
+PROD0630,Envisioneer Granular Users,Technology,Machines,539.01,292.17
+PROD0631,Maximize End-To-End Paradigms,Technology,Copiers,556.07,319.73
+PROD0632,Architect Visionary E-Business,Furniture,Chairs,923.17,795.55
+PROD0633,Orchestrate Vertical E-Business,Technology,Accessories,75.85,59.93
+PROD0634,Scale Visionary Vortals,Office Supplies,Labels,836.83,597.49
+PROD0635,Transform Distributed Solutions,Furniture,Furnishings,456.6,355.7
+PROD0636,Scale Vertical Content,Technology,Copiers,637.59,551.93
+PROD0637,Aggregate One-To-One E-Business,Office Supplies,Art,541.86,448.27
+PROD0638,Orchestrate Revolutionary Networks,Office Supplies,Paper,786.42,673.24
+PROD0639,Monetize Best-Of-Breed Infrastructures,Office Supplies,Labels,341.04,227.82
+PROD0640,Brand Wireless Info-Mediaries,Office Supplies,Labels,752.02,405.05
+PROD0641,Implement Magnetic Niches,Office Supplies,Paper,401.54,233.9
+PROD0642,Streamline Compelling E-Business,Office Supplies,Binders,176.35,120.32
+PROD0643,Deliver Cutting-Edge Communities,Furniture,Bookcases,152.15,131.78
+PROD0644,Deliver Dynamic Functionalities,Furniture,Tables,859.41,631.73
+PROD0645,Re-Intermediate Extensible Technologies,Technology,Accessories,897.78,703.61
+PROD0646,E-Enable B2C Experiences,Technology,Accessories,329.66,233.89
+PROD0647,Enhance Customized Experiences,Office Supplies,Art,784.94,593.05
+PROD0648,Reinvent Cross-Platform Applications,Furniture,Tables,709.16,462.72
+PROD0649,Generate E-Business Eyeballs,Office Supplies,Paper,201.93,157.49
+PROD0650,Re-Contextualize Best-Of-Breed Technologies,Office Supplies,Art,525.09,467.9
+PROD0651,Reinvent Best-Of-Breed Web-Readiness,Office Supplies,Labels,330.32,268.56
+PROD0652,Syndicate Magnetic Convergence,Technology,Copiers,689.95,521.48
+PROD0653,Benchmark B2B Metrics,Technology,Phones,104.57,76.26
+PROD0654,Integrate Leading-Edge Web Services,Technology,Copiers,956.44,855.5
+PROD0655,Morph Open-Source Action-Items,Office Supplies,Labels,496.75,252.71
+PROD0656,Evolve Global Functionalities,Technology,Machines,807.89,655.44
+PROD0657,Syndicate Compelling E-Services,Furniture,Tables,525.1,322.64
+PROD0658,Benchmark Out-Of-The-Box E-Commerce,Office Supplies,Paper,439.72,300.15
+PROD0659,Grow Ubiquitous E-Services,Technology,Phones,29.2,25.3
+PROD0660,Embrace Leading-Edge Channels,Office Supplies,Paper,360.14,226.22
+PROD0661,Seize Collaborative E-Markets,Furniture,Furnishings,718.46,635.62
+PROD0662,Disintermediate Distributed Technologies,Furniture,Bookcases,260.12,232.54
+PROD0663,Maximize Granular Networks,Technology,Accessories,859.8,491.79
+PROD0664,Mesh Scalable Functionalities,Furniture,Furnishings,505.34,407.97
+PROD0665,Extend Front-End Experiences,Office Supplies,Art,391.14,329.1
+PROD0666,E-Enable Interactive Models,Technology,Accessories,626.3,465.15
+PROD0667,Transform Leading-Edge Systems,Technology,Copiers,579.94,290.6
+PROD0668,Productize World-Class E-Services,Office Supplies,Art,380.99,321.86
+PROD0669,Evolve Seamless Web Services,Furniture,Tables,69.27,43.16
+PROD0670,Strategize Efficient Models,Technology,Machines,930.09,798.65
+PROD0671,Deliver Clicks-And-Mortar E-Business,Office Supplies,Binders,214.53,151.63
+PROD0672,Aggregate Strategic Systems,Office Supplies,Labels,445.54,307.43
+PROD0673,Benchmark Impactful Markets,Office Supplies,Labels,734.58,554.25
+PROD0674,Exploit Compelling Convergence,Technology,Phones,908.38,640.85
+PROD0675,Expedite World-Class Mindshare,Technology,Machines,66.14,46.85
+PROD0676,Deliver Plug-And-Play Channels,Technology,Machines,306.53,275.66
+PROD0677,Transition Ubiquitous Communities,Office Supplies,Binders,783.46,476.31
+PROD0678,E-Enable World-Class Experiences,Technology,Phones,241.08,128.9
+PROD0679,Incubate Frictionless Solutions,Office Supplies,Binders,947.68,501.8
+PROD0680,Transition Bleeding-Edge Markets,Furniture,Chairs,646.31,390.52
+PROD0681,Scale Plug-And-Play Portals,Furniture,Bookcases,219.49,172.14
+PROD0682,Engage Cutting-Edge Functionalities,Furniture,Bookcases,692.5,542.84
+PROD0683,Mesh Vertical Experiences,Technology,Phones,177.21,146.77
+PROD0684,Innovate Extensible Vortals,Office Supplies,Labels,741.29,402.37
+PROD0685,Integrate Front-End Synergies,Technology,Copiers,472.65,424.93
+PROD0686,Benchmark Robust E-Services,Technology,Accessories,209.29,110.64
+PROD0687,Transition Visionary Bandwidth,Furniture,Furnishings,637.49,367.86
+PROD0688,Maximize Mission-Critical Technologies,Office Supplies,Paper,771.05,512.54
+PROD0689,Productize Real-Time Methodologies,Technology,Accessories,319.62,245.0
+PROD0690,Deploy Front-End Metrics,Office Supplies,Paper,371.72,250.44
+PROD0691,Deliver User-Centric Vortals,Technology,Accessories,909.23,541.15
+PROD0692,Seize Strategic Action-Items,Technology,Machines,355.7,269.95
+PROD0693,Expedite Web-Enabled Initiatives,Technology,Accessories,469.87,246.45
+PROD0694,Leverage Magnetic Action-Items,Technology,Machines,677.88,589.07
+PROD0695,Scale End-To-End Markets,Office Supplies,Labels,270.58,240.09
+PROD0696,Benchmark Cross-Media Functionalities,Office Supplies,Binders,855.5,610.32
+PROD0697,Deliver Interactive E-Business,Furniture,Chairs,308.77,188.91
+PROD0698,Re-Contextualize Virtual E-Business,Office Supplies,Labels,225.02,188.33
+PROD0699,Aggregate Enterprise Info-Mediaries,Office Supplies,Art,881.49,596.46
+PROD0700,Exploit End-To-End Networks,Office Supplies,Paper,153.3,102.88
+PROD0701,Streamline Frictionless Functionalities,Office Supplies,Paper,991.44,770.41
+PROD0702,Morph Distributed E-Markets,Furniture,Tables,173.14,86.81
+PROD0703,Facilitate Mission-Critical Web-Readiness,Technology,Copiers,896.29,533.5
+PROD0704,Redefine Mission-Critical Users,Office Supplies,Binders,571.23,419.51
+PROD0705,Whiteboard Cross-Media Technologies,Furniture,Tables,725.08,583.02
+PROD0706,Innovate Seamless Action-Items,Technology,Copiers,826.68,417.74
+PROD0707,Unleash Collaborative Roi,Office Supplies,Paper,39.14,31.54
+PROD0708,Grow World-Class Eyeballs,Office Supplies,Binders,587.35,437.7
+PROD0709,Maximize Cross-Platform Vortals,Furniture,Bookcases,922.27,666.06
+PROD0710,Engage Magnetic Experiences,Office Supplies,Paper,478.96,256.6
+PROD0711,Strategize Vertical Supply-Chains,Furniture,Tables,896.95,694.39
+PROD0712,Incubate Rich Eyeballs,Office Supplies,Binders,542.55,275.48
+PROD0713,Morph Cross-Platform Solutions,Technology,Copiers,418.28,224.71
+PROD0714,Deliver Collaborative Supply-Chains,Office Supplies,Art,572.24,444.05
+PROD0715,Matrix End-To-End Web Services,Furniture,Tables,290.37,210.47
+PROD0716,Target Wireless Technologies,Furniture,Furnishings,920.94,502.7
+PROD0717,Matrix Ubiquitous Networks,Office Supplies,Binders,20.14,16.63
+PROD0718,Synergize Killer Initiatives,Technology,Accessories,942.95,550.36
+PROD0719,Whiteboard Sticky Relationships,Technology,Accessories,512.2,319.36
+PROD0720,Expedite Magnetic Roi,Office Supplies,Paper,358.26,184.5
+PROD0721,Evolve Scalable Content,Office Supplies,Labels,925.41,654.35
+PROD0722,Enhance Distributed Convergence,Technology,Accessories,805.32,714.13
+PROD0723,Envisioneer Front-End Methodologies,Technology,Phones,613.25,511.64
+PROD0724,Incubate Back-End Users,Technology,Machines,104.38,73.4
+PROD0725,Envisioneer Next-Generation Schemas,Technology,Copiers,278.26,205.87
+PROD0726,Grow Granular Roi,Furniture,Bookcases,49.43,27.93
+PROD0727,Harness E-Business Info-Mediaries,Office Supplies,Binders,971.1,832.23
+PROD0728,Utilize Synergistic Systems,Technology,Accessories,54.79,38.22
+PROD0729,Revolutionize B2B Relationships,Office Supplies,Art,963.5,682.6
+PROD0730,Orchestrate Cross-Media Initiatives,Technology,Copiers,596.79,473.83
+PROD0731,Incentivize Strategic Networks,Furniture,Bookcases,464.18,255.59
+PROD0732,Drive Enterprise Mindshare,Technology,Machines,941.87,680.58
+PROD0733,Embrace Transparent Portals,Technology,Copiers,823.66,517.18
+PROD0734,Drive Enterprise Systems,Office Supplies,Paper,266.49,158.25
+PROD0735,Embrace Visionary Methodologies,Furniture,Tables,982.25,694.92
+PROD0736,Utilize Holistic Web-Readiness,Office Supplies,Binders,676.95,345.29
+PROD0737,Optimize One-To-One Functionalities,Office Supplies,Binders,223.61,118.09
+PROD0738,Unleash Compelling Portals,Office Supplies,Binders,585.82,297.6
+PROD0739,Aggregate End-To-End Vortals,Office Supplies,Binders,960.49,625.17
+PROD0740,Exploit Wireless Applications,Furniture,Bookcases,925.39,819.29
+PROD0741,Architect Revolutionary E-Services,Technology,Machines,112.91,94.12
+PROD0742,Brand Plug-And-Play Metrics,Technology,Copiers,101.41,53.53
+PROD0743,Engage Efficient E-Business,Furniture,Chairs,780.36,464.7
+PROD0744,Whiteboard Bricks-And-Clicks E-Services,Office Supplies,Labels,147.6,102.56
+PROD0745,Evolve 24/365 Action-Items,Furniture,Bookcases,116.98,76.63
+PROD0746,Transform Collaborative Deliverables,Furniture,Furnishings,58.75,38.45
+PROD0747,Facilitate Real-Time Methodologies,Furniture,Tables,495.1,299.64
+PROD0748,Utilize End-To-End Vortals,Technology,Phones,97.74,79.4
+PROD0749,Deliver Interactive Eyeballs,Technology,Machines,150.11,134.48
+PROD0750,Synergize Cutting-Edge Interfaces,Office Supplies,Labels,305.67,196.98
+PROD0751,Disintermediate Sticky Channels,Office Supplies,Binders,187.42,94.58
+PROD0752,Facilitate Frictionless Paradigms,Furniture,Tables,788.9,488.03
+PROD0753,Repurpose Collaborative Portals,Furniture,Furnishings,551.26,376.15
+PROD0754,Target Innovative Experiences,Office Supplies,Paper,240.23,214.34
+PROD0755,Synthesize Value-Added Architectures,Furniture,Tables,886.52,794.01
+PROD0756,Incubate Virtual Metrics,Office Supplies,Labels,295.71,257.13
+PROD0757,Iterate Interactive E-Services,Office Supplies,Labels,542.98,379.88
+PROD0758,Deploy Scalable Methodologies,Technology,Accessories,993.98,671.48
+PROD0759,Iterate Visionary Synergies,Furniture,Furnishings,53.31,42.05
+PROD0760,Embrace Killer E-Business,Furniture,Chairs,777.11,455.98
+PROD0761,Deploy User-Centric E-Tailers,Office Supplies,Labels,639.87,539.06
+PROD0762,Integrate Mission-Critical E-Services,Furniture,Chairs,87.71,66.74
+PROD0763,Grow Integrated Interfaces,Furniture,Furnishings,949.64,761.97
+PROD0764,Grow Holistic Schemas,Furniture,Tables,439.5,311.65
+PROD0765,Whiteboard Robust Infrastructures,Furniture,Bookcases,268.35,151.62
+PROD0766,Benchmark Integrated Bandwidth,Technology,Copiers,500.0,322.0
+PROD0767,Productize Rich Portals,Furniture,Bookcases,467.04,398.68
+PROD0768,Grow Sticky Architectures,Technology,Phones,184.69,104.47
+PROD0769,Envisioneer Real-Time Infrastructures,Office Supplies,Paper,984.86,752.49
+PROD0770,Expedite Transparent Metrics,Office Supplies,Binders,965.4,488.7
+PROD0771,Revolutionize Wireless Channels,Office Supplies,Paper,57.99,36.05
+PROD0772,Aggregate Proactive Interfaces,Furniture,Bookcases,157.59,137.64
+PROD0773,Strategize B2C Systems,Furniture,Bookcases,476.65,291.45
+PROD0774,Transition Bleeding-Edge Methodologies,Office Supplies,Paper,377.7,286.09
+PROD0775,Unleash Next-Generation Synergies,Technology,Machines,902.92,799.99
+PROD0776,Syndicate User-Centric Web Services,Office Supplies,Labels,982.28,611.23
+PROD0777,Seize Compelling E-Markets,Technology,Copiers,746.29,461.93
+PROD0778,Transform 24/365 Networks,Technology,Phones,171.94,104.5
+PROD0779,Matrix Vertical E-Tailers,Furniture,Furnishings,401.75,310.22
+PROD0780,Optimize Frictionless Mindshare,Technology,Accessories,410.52,302.58
+PROD0781,Unleash Best-Of-Breed Web Services,Technology,Accessories,775.24,612.13
+PROD0782,Monetize Revolutionary E-Tailers,Office Supplies,Paper,268.59,170.86
+PROD0783,Deliver Visionary Web Services,Office Supplies,Paper,465.13,385.46
+PROD0784,Revolutionize E-Business Partnerships,Technology,Phones,214.02,150.99
+PROD0785,Enhance Seamless Interfaces,Office Supplies,Labels,77.05,48.01
+PROD0786,Productize Open-Source Eyeballs,Office Supplies,Paper,954.61,504.58
+PROD0787,Generate Open-Source Convergence,Office Supplies,Binders,82.76,62.24
+PROD0788,Generate Global Roi,Furniture,Chairs,171.84,154.59
+PROD0789,Engineer Holistic Niches,Technology,Accessories,627.16,408.01
+PROD0790,Extend Wireless Action-Items,Furniture,Furnishings,196.41,140.3
+PROD0791,Empower Bricks-And-Clicks E-Markets,Office Supplies,Binders,664.06,524.26
+PROD0792,Empower World-Class Solutions,Office Supplies,Art,419.7,347.69
+PROD0793,Re-Contextualize Cross-Media Supply-Chains,Technology,Machines,95.73,60.47
+PROD0794,Transform User-Centric Portals,Office Supplies,Labels,84.87,72.47
+PROD0795,Repurpose Magnetic Supply-Chains,Office Supplies,Art,853.51,679.52
+PROD0796,Re-Intermediate Frictionless Info-Mediaries,Furniture,Bookcases,700.35,410.73
+PROD0797,Syndicate Intuitive E-Services,Furniture,Furnishings,878.2,728.3
+PROD0798,Extend Virtual Systems,Furniture,Tables,90.61,51.41
+PROD0799,Empower Clicks-And-Mortar Channels,Office Supplies,Paper,272.0,166.57
+PROD0800,Incubate Cross-Media Users,Furniture,Furnishings,275.65,188.61
+PROD0801,Generate Revolutionary Web Services,Furniture,Furnishings,764.5,449.78
+PROD0802,Expedite 24/7 Models,Technology,Phones,535.88,414.48
+PROD0803,Redefine Holistic Functionalities,Office Supplies,Paper,535.05,352.14
+PROD0804,Strategize One-To-One Partnerships,Technology,Accessories,312.24,209.38
+PROD0805,Maximize Cross-Media Technologies,Office Supplies,Art,269.88,190.69
+PROD0806,Matrix Mission-Critical E-Commerce,Furniture,Tables,223.9,113.19
+PROD0807,Synthesize One-To-One Vortals,Furniture,Tables,112.37,75.65
+PROD0808,Enable Wireless Channels,Office Supplies,Paper,469.39,253.08
+PROD0809,Implement Next-Generation Experiences,Technology,Copiers,237.83,129.53
+PROD0810,Deliver Dot-Com Roi,Technology,Machines,751.56,584.37
+PROD0811,Whiteboard Viral Communities,Office Supplies,Labels,933.93,519.24
+PROD0812,Extend Robust Web-Readiness,Office Supplies,Paper,384.82,222.19
+PROD0813,Morph World-Class Relationships,Technology,Phones,193.48,101.58
+PROD0814,Deliver Revolutionary Bandwidth,Furniture,Furnishings,913.08,621.99
+PROD0815,Innovate Bricks-And-Clicks Interfaces,Furniture,Chairs,49.64,27.21
+PROD0816,Extend Sticky Info-Mediaries,Technology,Machines,986.35,704.48
+PROD0817,Envisioneer Clicks-And-Mortar Architectures,Office Supplies,Labels,26.01,13.62
+PROD0818,Whiteboard Leading-Edge Architectures,Office Supplies,Art,837.3,484.97
+PROD0819,Target Compelling Eyeballs,Office Supplies,Art,825.03,447.82
+PROD0820,Exploit Distributed Portals,Furniture,Chairs,553.72,389.03
+PROD0821,Target Web-Enabled E-Markets,Technology,Copiers,375.84,235.88
+PROD0822,Matrix Granular Architectures,Furniture,Furnishings,354.15,290.67
+PROD0823,Implement Value-Added E-Markets,Office Supplies,Labels,81.56,64.14
+PROD0824,Facilitate Customized Web-Readiness,Furniture,Furnishings,559.32,280.97
+PROD0825,Expedite Dynamic E-Tailers,Technology,Copiers,737.31,531.21
+PROD0826,Embrace Bricks-And-Clicks Niches,Technology,Copiers,20.0,11.26
+PROD0827,Aggregate Vertical Paradigms,Technology,Machines,350.12,306.88
+PROD0828,Synthesize Bricks-And-Clicks E-Tailers,Office Supplies,Labels,872.09,686.47
+PROD0829,Orchestrate B2B Technologies,Office Supplies,Paper,725.38,642.55
+PROD0830,Whiteboard Proactive Technologies,Technology,Machines,823.12,730.61
+PROD0831,Deliver Proactive Channels,Technology,Machines,964.46,784.15
+PROD0832,Engage Frictionless Relationships,Office Supplies,Binders,304.33,200.34
+PROD0833,Orchestrate Virtual E-Business,Office Supplies,Binders,308.4,233.46
+PROD0834,Re-Contextualize Impactful Platforms,Technology,Phones,850.26,639.57
+PROD0835,Exploit Holistic Infrastructures,Furniture,Bookcases,513.49,276.15
+PROD0836,Engineer 24/365 Initiatives,Furniture,Furnishings,804.4,618.24
+PROD0837,Deliver Visionary E-Tailers,Office Supplies,Paper,82.92,47.91
+PROD0838,Optimize Integrated Portals,Technology,Accessories,433.89,256.59
+PROD0839,Monetize Turn-Key Niches,Technology,Machines,983.91,567.56
+PROD0840,Scale Enterprise Deliverables,Furniture,Furnishings,418.94,269.83
+PROD0841,Re-Contextualize End-To-End Experiences,Office Supplies,Labels,781.39,659.1
+PROD0842,Envisioneer Innovative Systems,Technology,Phones,356.12,220.33
+PROD0843,Embrace Customized Supply-Chains,Office Supplies,Binders,576.29,297.38
+PROD0844,Synthesize Compelling Convergence,Office Supplies,Paper,342.57,223.94
+PROD0845,Maximize Bleeding-Edge Action-Items,Technology,Accessories,423.25,368.61
+PROD0846,Envisioneer Seamless Metrics,Furniture,Furnishings,16.1,10.75
+PROD0847,Facilitate B2C Metrics,Technology,Phones,933.82,767.67
+PROD0848,Re-Intermediate Web-Enabled Supply-Chains,Technology,Machines,998.05,785.42
+PROD0849,Monetize Enterprise Platforms,Furniture,Chairs,563.33,298.58
+PROD0850,Implement Leading-Edge Networks,Furniture,Bookcases,615.08,504.14
+PROD0851,Redefine B2B Channels,Office Supplies,Labels,761.05,645.02
+PROD0852,Generate Viral Channels,Technology,Accessories,284.96,227.55
+PROD0853,Embrace Front-End Functionalities,Office Supplies,Paper,752.83,654.66
+PROD0854,E-Enable 24/365 Networks,Technology,Phones,749.97,603.86
+PROD0855,Synergize Transparent Users,Furniture,Chairs,733.84,657.13
+PROD0856,Engineer Compelling Web-Readiness,Furniture,Chairs,848.46,438.13
+PROD0857,Productize Transparent Initiatives,Office Supplies,Labels,583.94,355.67
+PROD0858,Target Front-End Web-Readiness,Furniture,Furnishings,231.2,190.86
+PROD0859,Synthesize Clicks-And-Mortar Models,Office Supplies,Paper,83.94,44.78
+PROD0860,Integrate Innovative Communities,Office Supplies,Labels,879.58,644.92
+PROD0861,Grow Compelling Infrastructures,Technology,Accessories,94.48,84.75
+PROD0862,Grow Distributed Architectures,Technology,Phones,82.9,60.39
+PROD0863,Orchestrate End-To-End Systems,Office Supplies,Binders,249.91,185.6
+PROD0864,Mesh Cross-Platform Markets,Furniture,Furnishings,554.32,318.35
+PROD0865,Integrate Seamless Info-Mediaries,Office Supplies,Binders,595.83,420.71
+PROD0866,Aggregate Leading-Edge E-Commerce,Technology,Accessories,310.8,172.48
+PROD0867,Reinvent Best-Of-Breed Vortals,Office Supplies,Paper,383.85,193.93
+PROD0868,Re-Intermediate Wireless Vortals,Furniture,Furnishings,150.6,121.54
+PROD0869,Re-Intermediate Enterprise Initiatives,Furniture,Tables,562.49,443.28
+PROD0870,Extend Leading-Edge Partnerships,Furniture,Chairs,118.14,65.65
+PROD0871,Synergize Impactful E-Tailers,Furniture,Chairs,904.18,594.51
+PROD0872,Incubate Best-Of-Breed E-Services,Office Supplies,Art,266.84,175.93
+PROD0873,Revolutionize 24/365 Models,Furniture,Chairs,217.53,187.7
+PROD0874,Transition Cross-Media Mindshare,Technology,Accessories,955.64,848.61
+PROD0875,Synthesize Next-Generation Bandwidth,Technology,Accessories,25.44,22.03
+PROD0876,Optimize Vertical Networks,Furniture,Tables,532.82,284.48
+PROD0877,Re-Contextualize Interactive Networks,Technology,Phones,584.17,468.21
+PROD0878,Enable E-Business E-Markets,Office Supplies,Paper,856.9,735.69
+PROD0879,Productize Out-Of-The-Box Initiatives,Furniture,Chairs,442.84,353.47
+PROD0880,Re-Intermediate Cross-Platform Niches,Office Supplies,Art,932.55,832.32
+PROD0881,Envisioneer Cutting-Edge E-Commerce,Furniture,Chairs,63.94,54.56
+PROD0882,Leverage Revolutionary Mindshare,Furniture,Bookcases,785.4,530.09
+PROD0883,Drive Ubiquitous E-Services,Office Supplies,Labels,408.59,355.39
+PROD0884,Harness Frictionless Technologies,Office Supplies,Paper,58.81,35.71
+PROD0885,Engineer Holistic Users,Office Supplies,Labels,90.92,73.39
+PROD0886,Implement Scalable Interfaces,Technology,Phones,243.33,149.36
+PROD0887,Envisioneer Ubiquitous Markets,Technology,Accessories,114.86,96.4
+PROD0888,Transform Leading-Edge Synergies,Technology,Copiers,898.36,451.25
+PROD0889,Re-Intermediate Collaborative Platforms,Technology,Accessories,237.58,174.47
+PROD0890,Optimize Holistic Relationships,Technology,Copiers,376.99,315.17
+PROD0891,Re-Contextualize Open-Source Portals,Technology,Machines,773.85,440.39
+PROD0892,Repurpose Enterprise Action-Items,Office Supplies,Labels,418.2,232.91
+PROD0893,Brand Out-Of-The-Box Platforms,Office Supplies,Binders,104.47,69.63
+PROD0894,Incubate E-Business Roi,Technology,Phones,475.66,338.0
+PROD0895,Engineer Revolutionary Portals,Technology,Accessories,949.83,704.44
+PROD0896,Innovate B2C Deliverables,Office Supplies,Paper,752.73,422.38
+PROD0897,Re-Contextualize Cutting-Edge Communities,Technology,Phones,811.5,437.61
+PROD0898,Enable B2B Metrics,Technology,Copiers,357.42,269.91
+PROD0899,Reinvent Dot-Com Mindshare,Technology,Accessories,892.35,563.82
+PROD0900,Matrix Cutting-Edge Supply-Chains,Technology,Copiers,675.62,408.14
+PROD0901,Synergize Robust Deliverables,Office Supplies,Paper,19.64,11.24
+PROD0902,Re-Intermediate Compelling Eyeballs,Office Supplies,Binders,343.06,250.75
+PROD0903,Utilize User-Centric Solutions,Furniture,Chairs,327.47,175.14
+PROD0904,Benchmark Interactive Niches,Technology,Copiers,16.0,14.12
+PROD0905,Generate Plug-And-Play Models,Technology,Phones,536.22,414.78
+PROD0906,Disintermediate User-Centric Networks,Technology,Accessories,132.9,67.98
+PROD0907,Re-Intermediate Vertical E-Business,Furniture,Bookcases,615.09,400.25
+PROD0908,Utilize Cross-Media Info-Mediaries,Furniture,Furnishings,30.19,25.86
+PROD0909,Cultivate Scalable Deliverables,Technology,Copiers,475.46,295.33
+PROD0910,Matrix Killer Systems,Technology,Accessories,421.26,223.2
+PROD0911,Iterate Distributed Users,Furniture,Tables,158.8,80.99
+PROD0912,Strategize Scalable Web-Readiness,Technology,Accessories,263.83,173.64
+PROD0913,Grow Front-End Applications,Office Supplies,Paper,285.59,194.49
+PROD0914,Disintermediate Cutting-Edge Portals,Technology,Phones,460.07,363.48
+PROD0915,Facilitate Value-Added Users,Furniture,Chairs,329.63,259.7
+PROD0916,Matrix End-To-End Functionalities,Technology,Machines,94.57,47.57
+PROD0917,Facilitate Intuitive Infrastructures,Office Supplies,Labels,59.48,50.22
+PROD0918,Transform User-Centric Partnerships,Office Supplies,Labels,486.87,330.17
+PROD0919,Facilitate Rich Web Services,Technology,Copiers,857.55,680.95
+PROD0920,Iterate Next-Generation Models,Furniture,Furnishings,103.15,86.85
+PROD0921,Utilize Back-End Interfaces,Technology,Phones,475.62,391.81
+PROD0922,Monetize Best-Of-Breed Roi,Furniture,Chairs,86.07,60.23
+PROD0923,Incubate World-Class Markets,Furniture,Furnishings,701.36,489.47
+PROD0924,Architect Efficient Portals,Technology,Copiers,281.73,241.87
+PROD0925,Re-Intermediate Dot-Com Info-Mediaries,Technology,Phones,140.56,72.65
+PROD0926,Whiteboard End-To-End Channels,Technology,Phones,500.21,327.75
+PROD0927,Mesh Synergistic Applications,Technology,Accessories,487.23,290.96
+PROD0928,Empower Proactive Markets,Furniture,Tables,687.61,547.95
+PROD0929,Brand Killer Experiences,Office Supplies,Binders,623.76,427.55
+PROD0930,Extend Cross-Media Systems,Technology,Accessories,395.48,331.77
+PROD0931,Engage Efficient Markets,Office Supplies,Art,31.38,16.15
+PROD0932,Disintermediate Clicks-And-Mortar E-Business,Furniture,Bookcases,174.72,144.79
+PROD0933,Strategize Cross-Media Info-Mediaries,Technology,Phones,800.85,644.26
+PROD0934,Visualize Compelling Methodologies,Technology,Accessories,387.85,239.83
+PROD0935,Transform Sticky Content,Technology,Phones,672.8,417.44
+PROD0936,Cultivate Dot-Com Technologies,Technology,Accessories,818.07,422.2
+PROD0937,Target Impactful Convergence,Furniture,Bookcases,279.85,196.41
+PROD0938,Incentivize Leading-Edge Partnerships,Office Supplies,Paper,695.99,438.12
+PROD0939,Reinvent Extensible Models,Office Supplies,Art,941.63,547.89
+PROD0940,Empower B2C Web-Readiness,Office Supplies,Art,851.21,534.01
+PROD0941,Embrace 24/365 Relationships,Technology,Phones,590.53,467.15
+PROD0942,Architect End-To-End Experiences,Office Supplies,Art,74.61,43.19
+PROD0943,Extend B2B Deliverables,Office Supplies,Binders,520.79,379.64
+PROD0944,Envisioneer Sticky Schemas,Furniture,Bookcases,457.28,361.64
+PROD0945,Unleash Killer Methodologies,Office Supplies,Binders,864.1,520.5
+PROD0946,Reinvent Holistic Models,Office Supplies,Binders,841.41,440.12
+PROD0947,Benchmark Value-Added Markets,Office Supplies,Binders,904.54,629.68
+PROD0948,Expedite Wireless Paradigms,Office Supplies,Binders,347.5,256.54
+PROD0949,Disintermediate Value-Added Convergence,Office Supplies,Binders,739.55,631.47
+PROD0950,Incentivize Cross-Media Experiences,Technology,Machines,348.17,234.31
+PROD0951,Repurpose Vertical E-Business,Furniture,Tables,14.27,8.15
+PROD0952,Cultivate Distributed E-Tailers,Office Supplies,Paper,47.85,35.94
+PROD0953,Integrate Open-Source Interfaces,Technology,Machines,379.2,267.15
+PROD0954,Implement Scalable Applications,Technology,Accessories,247.68,135.94
+PROD0955,Exploit Enterprise Experiences,Furniture,Bookcases,487.71,436.67
+PROD0956,Morph Mission-Critical Methodologies,Office Supplies,Paper,376.37,261.97
+PROD0957,Streamline Synergistic Roi,Technology,Machines,427.6,372.36
+PROD0958,Synergize Rich E-Business,Furniture,Bookcases,467.51,373.49
+PROD0959,Drive Vertical Supply-Chains,Technology,Copiers,113.52,99.95
+PROD0960,Enable Bleeding-Edge Initiatives,Technology,Machines,441.85,271.09
+PROD0961,Grow Next-Generation Deliverables,Office Supplies,Labels,685.38,345.66
+PROD0962,Benchmark Vertical Platforms,Technology,Machines,811.26,435.36
+PROD0963,Matrix B2C E-Markets,Technology,Accessories,179.67,137.78
+PROD0964,Unleash Holistic Paradigms,Furniture,Chairs,350.12,280.49
+PROD0965,Harness Visionary Applications,Furniture,Furnishings,138.0,92.38
+PROD0966,E-Enable Granular Applications,Furniture,Bookcases,775.68,476.58
+PROD0967,Syndicate Clicks-And-Mortar Info-Mediaries,Furniture,Furnishings,427.88,339.93
+PROD0968,Architect Web-Enabled Vortals,Technology,Phones,980.78,553.71
+PROD0969,Aggregate Front-End Supply-Chains,Furniture,Tables,10.38,6.91
+PROD0970,Deploy Visionary Action-Items,Technology,Phones,869.85,580.66
+PROD0971,Integrate Value-Added Web-Readiness,Office Supplies,Labels,311.21,200.5
+PROD0972,Engineer Cutting-Edge Niches,Technology,Copiers,635.69,405.24
+PROD0973,Aggregate 24/365 Synergies,Technology,Machines,766.57,599.69
+PROD0974,Extend Robust Networks,Furniture,Chairs,33.24,18.55
+PROD0975,Transform 24/7 Roi,Furniture,Chairs,986.88,670.98
+PROD0976,Benchmark Revolutionary Paradigms,Furniture,Bookcases,539.5,479.19
+PROD0977,Engage Viral Methodologies,Technology,Accessories,549.74,374.9
+PROD0978,Generate Global Info-Mediaries,Furniture,Tables,555.11,450.38
+PROD0979,Transition Turn-Key Bandwidth,Office Supplies,Binders,285.59,143.29
+PROD0980,Target Web-Enabled Metrics,Furniture,Chairs,60.09,41.99
+PROD0981,Target Dynamic Technologies,Technology,Phones,948.56,790.1
+PROD0982,Exploit One-To-One Technologies,Technology,Copiers,803.28,489.18
+PROD0983,Re-Contextualize Scalable Web-Readiness,Technology,Copiers,489.21,277.09
+PROD0984,Enable Back-End Roi,Technology,Phones,758.29,590.94
+PROD0985,Envisioneer Sticky Vortals,Office Supplies,Labels,675.04,592.24
+PROD0986,Generate Interactive Niches,Office Supplies,Art,819.14,604.76
+PROD0987,Drive Mission-Critical Applications,Technology,Phones,938.08,483.8
+PROD0988,Expedite Back-End Eyeballs,Furniture,Tables,659.61,412.89
+PROD0989,Expedite Enterprise Markets,Furniture,Tables,174.1,97.77
+PROD0990,Maximize Back-End Mindshare,Office Supplies,Labels,445.63,318.87
+PROD0991,Monetize Compelling Platforms,Office Supplies,Art,14.02,9.06
+PROD0992,Embrace Killer Action-Items,Office Supplies,Art,441.68,227.58
+PROD0993,Productize Innovative E-Services,Technology,Machines,909.06,614.1
+PROD0994,Enhance B2B E-Commerce,Furniture,Chairs,74.9,64.64
+PROD0995,Productize Front-End Initiatives,Furniture,Tables,269.32,171.07
+PROD0996,Iterate Seamless Roi,Office Supplies,Binders,946.04,835.31
+PROD0997,Transform Bricks-And-Clicks Channels,Furniture,Bookcases,960.33,836.84
+PROD0998,Utilize Vertical Metrics,Office Supplies,Paper,898.22,487.7
+PROD0999,Expedite Real-Time Info-Mediaries,Technology,Accessories,469.63,298.39
+PROD1000,Exploit Seamless Metrics,Furniture,Bookcases,690.31,429.47

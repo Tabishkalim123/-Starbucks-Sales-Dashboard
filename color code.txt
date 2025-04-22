@@ -1,0 +1,4 @@
+Purpose | Hex Code | Description
+Background Accent | #FFFFFF | White, often used for contrast
+Old Logo Green | #1E3932 | A deeper green used in some older branding
+Cream | #F1F1E7 | Occasionally used in product packaging
