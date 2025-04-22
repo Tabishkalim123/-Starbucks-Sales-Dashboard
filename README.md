@@ -57,12 +57,13 @@ Starbucks-Sales-Dashboard/
 
 ## 📸 Dashboard Preview
 
-Include screenshots of the dashboard using visuals from the `/images` folder.
+![image](https://github.com/user-attachments/assets/5990b6de-b7db-43d0-98df-07aae1669835)
+
+
 
 ---
 
 ## 📬 Contact
 
 **Created by:** MD Tabish Kalim  
-**LinkedIn:** [Your LinkedIn Profile]  
-**GitHub:** [Your GitHub Username]
+**LinkedIn:**  https://www.linkedin.com/in/mdtabish-kalim/
